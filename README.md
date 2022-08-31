@@ -1,5 +1,7 @@
 # Recommender systems research
 
+### Лето 2022, ЦИАН
+
 1). Запуск и исследование оригинальных моделей LightFM и SASRec (Microsoft recommenders):
 
 - Test_LightFM.ipynb - запуск и тестирование модели LightFM
